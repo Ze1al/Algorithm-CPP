@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Algorithm_CPP.dir/main.cpp.o CMakeFiles/Algorithm_CPP.dir/src/tencent/2.cpp.o CMakeFiles/Algorithm_CPP.dir/src/tencent/init.cpp.o  -o Algorithm_CPP 
